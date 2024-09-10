@@ -1,0 +1,24 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  color: inherit;
+}
+
+ul,
+ol,
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+div {
+  width: 100px;
+  height: 100px;
+  background-color: palevioletred;
+}
+
+/*# sourceMappingURL=style.css.map */
